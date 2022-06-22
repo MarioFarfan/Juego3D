@@ -25,10 +25,6 @@ Para ejecutar se debe dar click en el depurador local de windows y el usuario s�
 ![image](https://user-images.githubusercontent.com/57578552/171224115-43aa2ed3-8941-4240-87d6-f87ca9e0091e.png)
 
 
-## Versionado 📌
-
-Usamos [Github](https://github.com/) para el versionado. Para todas las versiones disponibles, mira los [commits](https://github.com/EmePin/Juego3D/compare/master...main)
-
 ## Autores ✒️
 
 * **Farfán Chávez Mario José** - [MarioFarfan](https://github.com/MarioFarfan)
